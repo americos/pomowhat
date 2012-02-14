@@ -1,14 +1,136 @@
-
 body{
 	text-align: center;
 	font-family: 'Exo', sans-serif;
+	font-size:25px;
 }
 
 h1{
-	font-size:50px;
+	font-size:60px;
 	font-family: 'Share', cursive;
 }
+
 h2{
 	font-size:30px;
 	font-family: 'Parisienne', cursive;
+}
+
+p{
+	width:960px;
+	margin: 40px auto;
+	line-height:150%;
+}
+
+img{
+	-webkit-border-radius:15px;
+	-moz-border-radius:15px;
+	border-radius:15px;
+}
+
+.credits{
+	font-family: 'Exo', sans-serif;
+	font-size:15px;
+}
+
+.ps{
+	font-family: 'Kotta One', serif;
+	font-size:30px;
+}
+
+.quotes{
+	font-family: 'Share', cursive;
+	font-size:30px;
+}
+
+.section-whatIs{
+	background: #A52A2A;
+	width: 100%;
+	color:white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.section-pomowhat{
+	background: #CD3333;
+	color:#FF6347;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	-webkit-text-shadow: 2px 2px black;
+	-moz-text-shadow:2px 2px black;
+	text-shadow:2px 2px black;
+}
+
+.section-whatyouneed{
+	background: #FF6A6A;
+	color: #8B7D7B;
+	padding-top:20px;
+	padding-bottom:20px;
+	-webkit-text-shadow: 1px 1px black;
+	-moz-text-shadow:1px 1px black;
+	text-shadow:1px 1px black;
+}
+
+.section-fivesteps{
+	background: #FFCCCC;
+	color: black;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.section-benefits{
+	background: #FFFAFA;
+	color: #8E2323;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.section-howcome{
+	background: #CD4F39;
+	color: black;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.section-interrupted{
+	background: #5E2612;
+	color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+
+}
+
+.section-handleinterruptions{
+	background: #FF7F50;
+	color:black;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.section-interruptionsyoucantcontrol{
+	background: #FBA16C;
+	color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	-webkit-text-shadow: 1px 1px black;
+	-moz-text-shadow:1px 1px black;
+	text-shadow:1px 1px black;
+}
+
+.section-pomodoroforeverything{
+	background: #FF7722;
+	color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	-webkit-text-shadow: 1px 1px black;
+	-moz-text-shadow:1px 1px black;
+	text-shadow:1px 1px black;
+}
+
+.section-utilities{
+	background: #603311;
+	color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	-webkit-text-shadow: 1px 1px black;
+	-moz-text-shadow:1px 1px black;
+	text-shadow:1px 1px black;
 }
