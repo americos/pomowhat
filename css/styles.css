@@ -10,7 +10,7 @@ h1{
 }
 
 h2{
-	font-size:30px;
+	font-size:35px;
 
 	font-family: 'Parisienne', cursive;
 }
@@ -65,7 +65,7 @@ section ol, ul{
 
 .section-pomowhat{
 	background: #CD3333;
-	color:#FF6347;
+	color:#E0E0E0;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	-webkit-text-shadow: 2px 2px black;
