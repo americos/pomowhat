@@ -11,6 +11,7 @@ h1{
 
 h2{
 	font-size:30px;
+
 	font-family: 'Parisienne', cursive;
 }
 
@@ -26,6 +27,14 @@ img{
 	border-radius:15px;
 }
 
+section ol, ul{
+	width:960px;
+	overflow:hidden;
+	margin: 0 auto;
+	position:relative;
+	text-align: justify;
+}
+
 .credits{
 	font-family: 'Exo', sans-serif;
 	font-size:15px;
@@ -39,6 +48,11 @@ img{
 .quotes{
 	font-family: 'Share', cursive;
 	font-size:30px;
+}
+
+.opinion{
+	font-family: 'Allura', cursive;
+	font-size:25px;
 }
 
 .section-whatIs{
